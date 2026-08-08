@@ -1,47 +1,60 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,100:7C3AED&text=ONIXUS&fontAlignY=38&fontSize=68&fontColor=ffffff&desc=Building%20products%20that%20make%20cities%20feel%20alive&descAlignY=60&descSize=17" alt="ONIXUS banner" />
+<img width="100%" src="./onixus-citypulse-banner.png" alt="ONIXUS — Building CityPulse" />
 
-[![CityPulse](https://img.shields.io/badge/Explore-CityPulse-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://citypulse.cz)
-[![GitHub](https://img.shields.io/badge/Follow-PHARTgogo-181717?style=for-the-badge&logo=github)](https://github.com/PHARTgogo)
+[![CityPulse](https://img.shields.io/badge/EXPLORE-CITYPULSE-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://citypulse.cz)
+[![GitHub](https://img.shields.io/badge/FOLLOW-PHARTgogo-181717?style=for-the-badge&logo=github)](https://github.com/PHARTgogo)
 
 </div>
 
 ## Hey, I'm ONIXUS 👋
 
-I'm a product builder creating **[CityPulse](https://citypulse.cz)** — an interactive map that makes events across Czechia easier to discover.
+I'm a product builder creating **[CityPulse](https://citypulse.cz)** — a live discovery platform that makes events and opportunities across Czechia easier to find.
 
-- 🗺️ Turning local events into visible opportunities
-- 🤖 Exploring the intersection of products, maps, automation and AI
-- ⚡ Focused on useful, simple and fast experiences
-- 🌍 Building for real people and real cities
+> My goal: make cities feel more open, useful and alive through thoughtful digital products.
 
-## What I'm building
+## 🚀 Currently building
 
 <table>
 <tr>
-<td width="70%">
+<td width="64%">
 
-### CityPulse
+### [CityPulse](https://citypulse.cz)
 
-Open the map and instantly see what's happening around you — events, opportunities and places worth discovering.
+Open the map and instantly see what's happening around you. Browse events without an account, search by place or category, and discover opportunities across Czechia.
 
 </td>
 <td align="center">
 
-**331+ events**  
-**Czechia-wide**  
-**Live map**
+🗺️ **Live map**  
+📍 **331+ events**  
+🇨🇿 **Czechia-wide**  
+⚡ **Fast discovery**
 
 </td>
 </tr>
 </table>
 
-## How I work
+## 🎯 Product focus
+
+- **Event discovery** — turning scattered local information into one clear experience
+- **Maps & location** — making place-based exploration intuitive
+- **AI-assisted products** — using automation where it creates real value
+- **Organizer tools** — helping events become visible to the right audience
+- **Human UX** — simple flows, useful defaults and less friction
+
+## 🧭 Principles
 
 `Ship early` · `Learn fast` · `Keep it human` · `Make it useful`
 
----
+| Build | Learn | Improve |
+|:--|:--|:--|
+| Start with a real problem | Listen to real users | Remove friction continuously |
+| Prefer clarity over noise | Measure what matters | Keep momentum |
+
+## 🤝 Let's connect
+
+I'm interested in product feedback, city technology, event discovery and partnerships around **CityPulse**.
 
 <div align="center">
 
